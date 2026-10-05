@@ -31,16 +31,15 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  min-height: 100dvh;
   margin: 0;
   overflow: hidden;
 }
 
 #root {
   width: 100%;
-  max-width: 390px; /* iPhone 14 width */
-  height: 100vh;
-  max-height: 844px; /* iPhone 14 height */
+  max-width: 500px;
+  height: 100dvh;
   background: var(--bg-color);
   position: relative;
   overflow-x: hidden;
