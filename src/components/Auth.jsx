@@ -27,7 +27,7 @@ function IntroAnimation({ onComplete }) {
         transition={{ duration: 1 }}
         style={{ position: 'absolute', fontSize: '2rem', fontFamily: 'var(--font-retro)' }}
       >
-        Welcome to our space &lt;3
+        Welcome to Cha💖Yas
       </motion.div>
     </div>
   );
